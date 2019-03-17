@@ -1,0 +1,68 @@
+Florida	SEC	32-2	1
+Arizona	Pac-12	30-4	2
+Wichita State	MVC	34-0	3
+Virginia	ACC	28-6	4
+Villanova	Big East	28-4	5
+Michigan	Big Ten	25-8	6
+Kansas	Big 12	24-9	7
+Wisconsin	Big Ten	26-7	8
+Duke	ACC	26-8	9
+Syracuse	ACC	27-5	10
+Creighton	Big East	26-7	11
+Iowa State	Big 12	26-7	12
+Louisville	American	29-5	13
+Michigan State	Big Ten	26-8	14
+UCLA	Pac-12	26-8	15
+San Diego State	Mountain West	29-4	16
+Cincinnati	American	27-6	17
+Saint Louis	Atlantic 10	26-6	18
+VCU	Atlantic 10	26-8	19
+Oklahoma	Big 12	23-9	20
+North Carolina	ACC	23-9	21
+Ohio State	Big Ten	25-9	22
+Massachusetts	Atlantic 10	24-8	23
+Baylor	Big 12	24-11	24
+Texas	Big 12	23-10	25
+Connecticut	American	26-8	26
+Oregon	Pac-12	23-9	27
+New Mexico	Mountain West	27-6	28
+Kentucky	SEC	24-10	29
+Gonzaga	West Coast	28-6	30
+Memphis	American	23-9	31
+Colorado	Pac-12	23-11	32
+Kansas State	Big 12	20-12	33
+George Washington	Atlantic 10	24-8	34
+Oklahoma State	Big 12	21-12	35
+Pittsburgh	ACC	25-9	36
+Stanford	Pac-12	21-12	37
+St. Joseph's	Atlantic 10	24-9	38
+BYU	West Coast	23-11	39
+Arizona State	Pac-12	21-11	40
+Dayton	Atlantic 10	23-10	41
+Nebraska	Big Ten	19-12	42
+Providence	Big East	23-11	43
+Tennessee	SEC	21-12	44
+Iowa	Big Ten	20-12	45
+Xavier	Big East	21-12	46
+NC State	ACC	21-13	47
+North Dakota State	Summit	25-6	48
+Harvard	Ivy	26-4	49
+Stephen F. Austin	Southland	31-2	50
+Manhattan	MAAC	25-7	51
+Tulsa	C-USA	21-12	52
+New Mexico State	WAC	26-9	53
+Delaware	Colonial	25-9	54
+Western Michigan	MAC	23-9	55
+Mercer	Atlantic Sun	26-8	56
+Louisiana-Lafayette	Sun Belt	23-11	57
+North Carolina Central	MEAC	28-5	58
+Eastern Kentucky	Ohio Valley	24-9	59
+Milwaukee	Horizon	21-13	60
+Wofford	Southern	20-12	61
+American	Patriot	20-12	62
+Coastal Carolina	Big South	21-12	63
+Weber State	Big Sky	19-11	64
+Mount St. Mary's	Northeast	16-16	65
+Albany	America East	18-14	66
+Texas Southern	SWAC	19-14	67
+Cal Poly	Big West	13-19	68

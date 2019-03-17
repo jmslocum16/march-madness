@@ -1,0 +1,2 @@
+1	Texas	50	2	Kansas	45
+1	Texas	50	3	OU	70

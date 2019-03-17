@@ -1,0 +1,67 @@
+16	LIU Brooklyn	61	16	Radford	71
+11	St. Bonaventure	65	11	UCLA	58
+16	Texas Southern	64	16	North Carolina Central	46
+11	Syracuse	60	11	Arizona State	56
+1	Virginia	54	16	UMBC	74
+8	Creighton	59	9	Kansas State	69
+5	Kentucky	78		12	Davidson	73
+4	Arizona	68	13	Buffalo	89
+6	Miami	62			11	Loyola-Chicago	64
+3	Tennessee	73	14	Wright State	47
+7	Nevada	87		10	Texas	83
+2	Cincinnati	68	15	Georgia State	53
+16	UMBC	43	9	Kansas State	50
+5	Kentucky	95	13	Buffalo	75
+11	Loyola-Chicago	63	3	Tennessee	62
+7	Nevada	75	2	Cincinnati	73
+9	Kansas State	61	5	Kentucky	58
+11	Loyola-Chicago	69	7	Nevada	68
+9	Kansas State	62	11	Loyola-Chicago	78
+1	Xavier	102	16	Texas Southern	83
+8	Missouri	54	9	Florida State	67
+5	Ohio State	81		12	South Dakota State	73
+4	Gonzaga	68	13	UNC Greensboro	64
+6	Houston	67			11	San Diego State	65
+3	Michigan	61	14	Montana	47
+7	Texas A&M	73		10	Providence	69
+2	North Carolina	84	15	Lipscomb	66
+1	Xavier	70	9	Florida State	75
+5	Ohio State	84	4	Gonzaga	90
+6	Houston	63	3	Michigan	64
+7	Texas A&M	86	2	North Carolina	65
+9	Florida State	75	4	Gonzaga	60
+3	Michigan	99	7	Texas A&M	72
+9	Florida State	54	3	Michigan	58
+1	Villanova	87	16	Radford	61
+8	Virginia Tech	83	9	Alabama	86
+5	West Virginia	85		12	Murray State	68
+4	Wichita State	75	13	Marshall	81
+6	Florida	77			11	St. Bonaventure	62
+3	Texas Tech	70	14	Stephen F. Austin	60
+7	Arkansas	62		10	Butler	79
+2	Purdue	74	15	Cal State Fullerton	48
+1	Villanova	81	9	Alabama	58
+5	West Virginia	94	13	Marshall	71
+6	Florida	66	3	Texas Tech	69
+10	Butler	73	2	Purdue	76
+1	Villanova	90	5	West Virginia	78
+3	Texas Tech	78	2	Purdue	65
+1	Villanova	71	3	Texas Tech	59
+1	Kansas	76	16	Penn	60
+8	Seton Hall	94	9	NC State	83
+5	Clemson	79		12	New Mexico State	68
+4	Auburn	62	13	College of Charleston	58
+6	TCU	52			11	Syracuse	57
+3	Michigan State	82	14	Bucknell	78
+7	Rhode Island	83		10	Oklahoma	78
+2	Duke	89	15	Iona	67
+1	Kansas	83	8	Seton Hall	79
+5	Clemson	84	4	Auburn	53
+11	Syracuse	55	3	Michigan State	53
+7	Rhode Island	62	2	Duke	87
+1	Kansas	80	5	Clemson	76
+11	Syracuse	65	2	Duke	69
+1	Kansas	85	2	Duke	81
+11	Loyola-Chicago	57	3	Michigan	69
+1	Villanova	95	1	Kansas	79
+3	Michigan	62	1	Villanova	79

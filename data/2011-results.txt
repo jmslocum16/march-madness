@@ -1,0 +1,67 @@
+16	UTSA	70	16	Alabama State	61
+12	Clemson	70	12	UAB	52
+16	UNC-Asheville	81	16	Arkansas-Little Rock	77
+11	VCU	59	11	USC	46
+1	Ohio State	75	16	UTSA	46	
+1	Ohio State	98	8	George Mason	66	
+8	George Mason	61	9	Villanova	57	
+1	Ohio State	60	4	Kentucky	62	
+5	West Virginia	84		12	Clemson	76	
+5	West Virginia	63	4	Kentucky	71	
+4	Kentucky	59	13	Princeton	57	
+4	Kentucky	76	2	North Carolina	69	
+6	Xavier	55			11	Marquette	66	
+11	Marquette	66	3	Syracuse	62	
+3	Syracuse	77	14	Indiana State	60	
+11	Marquette	63	2	North Carolina	81	
+7	Washington	68		10	Georgia	65	
+7	Washington	83	2	North Carolina	86	
+2	North Carolina	102	15	Long Island	87
+1	Duke	87	16	Hampton	45	
+1	Duke	73	8	Michigan	71	
+8	Michigan	75	9	Tennessee	45	
+1	Duke	77	5	Arizona	93	
+5	Arizona	77		12	Memphis	75	
+5	Arizona	70	4	Texas	69	
+4	Texas	85	13	Oakland	81	
+5	Arizona	63	3	Connecticut	65	
+6	Cincinnati	78			11	Missouri	63	
+6	Cincinnati	58	3	Connecticut	69	
+3	Connecticut	81	14	Bucknell	52	
+3	Connecticut	74	2	San Diego State	67	
+7	Temple	66		10	Penn State	64	
+7	Temple	64	2	San Diego State	71	
+2	San Diego State	68	15	Northern Colorado	50
+1	Kansas	72	16	Boston University	53	
+1	Kansas	73	9	Illinois	59	
+8	UNLV	62	9	Illinois	73	
+1	Kansas	77	12	Richmond	57	
+5	Vanderbilt	66		12	Richmond	69	
+12	Richmond	65	13	Morehead State	48	
+4	Louisville	61	13	Morehead State	62	
+1	Kansas	61	11	VCU	71	
+6	Georgetown	56			11	VCU	74	
+11	VCU	94	3	Purdue	76	
+3	Purdue	65	14	Saint Peter's	43	
+11	VCU	72	10	Florida State	71	
+7	Texas A&M	50		10	Florida State	57	
+10	Florida State	71	2	Notre Dame	57	
+2	Notre Dame	69	15	Akron	56
+1	Pittsburgh	74	16	UNC Asheville	51	
+1	Pittsburgh	70	8	Butler	71	
+8	Butler	60	9	Old Dominion	58	
+8	Butler	61	4	Wisconsin	54	
+5	Kansas State	73		12	Utah State	68	
+5	Kansas State	65	4	Wisconsin	70	
+4	Wisconsin	72	13	Belmont	58	
+8	Butler	74	2	Florida	71	
+6	St. John's	71			11	Gonzaga	86	
+11	Gonzaga	67	3	BYU	89	
+3	BYU	74	14	Wofford	66	
+3	BYU	74	2	Florida	83	
+7	UCLA	78		10	Michigan State	76	
+7	UCLA	65	2	Florida	73	
+2	Florida	79	15	UC Santa Barbara	51
+4	Kentucky	55	3	Connecticut	56
+3	Connecticut	53	8	Butler	41
+11	VCU	62	8	Butler	70

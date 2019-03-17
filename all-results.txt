@@ -1,0 +1,469 @@
+16	18 LIU Brooklyn	61	16	18 Radford	71
+11	18 St. Bonaventure	65	11	18 UCLA	58
+16	18 Texas Southern	64	16	18 North Carolina Central	46
+11	18 Syracuse	60	11	18 Arizona State	56
+1	18 Virginia	54	16	18 UMBC	74
+8	18 Creighton	59	9	18 Kansas State	69
+5	18 Kentucky	78	12	18 Davidson	73
+4	18 Arizona	68	13	18 Buffalo	89
+6	18 Miami	62	11	18 Loyola-Chicago	64
+3	18 Tennessee	73	14	18 Wright State	47
+7	18 Nevada	87	10	18 Texas	83
+2	18 Cincinnati	68	15	18 Georgia State	53
+16	18 UMBC	43	9	18 Kansas State	50
+5	18 Kentucky	95	13	18 Buffalo	75
+11	18 Loyola-Chicago	63	3	18 Tennessee	62
+7	18 Nevada	75	2	18 Cincinnati	73
+9	18 Kansas State	61	5	18 Kentucky	58
+11	18 Loyola-Chicago	69	7	18 Nevada	68
+9	18 Kansas State	62	11	18 Loyola-Chicago	78
+1	18 Xavier	102	16	18 Texas Southern	83
+8	18 Missouri	54	9	18 Florida State	67
+5	18 Ohio State	81	12	18 South Dakota State	73
+4	18 Gonzaga	68	13	18 UNC Greensboro	64
+6	18 Houston	67	11	18 San Diego State	65
+3	18 Michigan	61	14	18 Montana	47
+7	18 Texas A&M	73	10	18 Providence	69
+2	18 North Carolina	84	15	18 Lipscomb	66
+1	18 Xavier	70	9	18 Florida State	75
+5	18 Ohio State	84	4	18 Gonzaga	90
+6	18 Houston	63	3	18 Michigan	64
+7	18 Texas A&M	86	2	18 North Carolina	65
+9	18 Florida State	75	4	18 Gonzaga	60
+3	18 Michigan	99	7	18 Texas A&M	72
+9	18 Florida State	54	3	18 Michigan	58
+1	18 Villanova	87	16	18 Radford	61
+8	18 Virginia Tech	83	9	18 Alabama	86
+5	18 West Virginia	85	12	18 Murray State	68
+4	18 Wichita State	75	13	18 Marshall	81
+6	18 Florida	77	11	18 St. Bonaventure	62
+3	18 Texas Tech	70	14	18 Stephen F. Austin	60
+7	18 Arkansas	62	10	18 Butler	79
+2	18 Purdue	74	15	18 Cal State Fullerton	48
+1	18 Villanova	81	9	18 Alabama	58
+5	18 West Virginia	94	13	18 Marshall	71
+6	18 Florida	66	3	18 Texas Tech	69
+10	18 Butler	73	2	18 Purdue	76
+1	18 Villanova	90	5	18 West Virginia	78
+3	18 Texas Tech	78	2	18 Purdue	65
+1	18 Villanova	71	3	18 Texas Tech	59
+1	18 Kansas	76	16	18 Penn	60
+8	18 Seton Hall	94	9	18 NC State	83
+5	18 Clemson	79	12	18 New Mexico State	68
+4	18 Auburn	62	13	18 College of Charleston	58
+6	18 TCU	52	11	18 Syracuse	57
+3	18 Michigan State	82	14	18 Bucknell	78
+7	18 Rhode Island	83	10	18 Oklahoma	78
+2	18 Duke	89	15	18 Iona	67
+1	18 Kansas	83	8	18 Seton Hall	79
+5	18 Clemson	84	4	18 Auburn	53
+11	18 Syracuse	55	3	18 Michigan State	53
+7	18 Rhode Island	62	2	18 Duke	87
+1	18 Kansas	80	5	18 Clemson	76
+11	18 Syracuse	65	2	18 Duke	69
+1	18 Kansas	85	2	18 Duke	81
+11	18 Loyola-Chicago	57	3	18 Michigan	69
+1	18 Villanova	95	1	18 Kansas	79
+3	18 Michigan	62	1	18 Villanova	79
+16	17 Mount St. Mary's	67	16	17 New Orleans	66
+11	17 Kansas State	95	11	17 Wake Forest	88
+16	17 North Carolina Central	63	16	17 UC Davis	67
+11	17 Providence	71	11	17 USC	75
+1	17 Villanova	76	16	17 Mount St. Mary's	56
+8	17 Wisconsin	84	9	17 Virginia Tech	74
+5	17 Virginia	76	12	17 UNC Wilmington	71
+4	17 Florida	80	13	17 East Tennessee State	65
+6	17 SMU	65	11	17 USC	66
+3	17 Baylor	91	14	17 New Mexico State	73
+7	17 South Carolina	93	10	17 Marquette	73
+2	17 Duke	87	15	17 Troy	65
+1	17 Villanova	62	8	17 Wisconsin	65
+5	17 Virginia	39	4	17 Florida	65
+11	17 USC	78	3	17 Baylor	82
+7	17 South Carolina	88	2	17 Duke	81
+8	17 Wisconsin	83	4	17 Florida	84
+3	17 Baylor	50	7	17 South Carolina	70
+4	17 Florida	70	7	17 South Carolina	77
+1	17 Gonzaga	66	16	17 South Dakota State	46
+8	17 Northwestern	68	9	17 Vanderbilt	66
+5	17 Notre Dame	60	12	17 Princeton	58
+4	17 West Virginia	86	13	17 Bucknell	80
+6	17 Maryland	65	11	17 Xavier	76
+3	17 Florida State	86	14	17 Florida Gulf Coast	80
+7	17 Saint Mary's	85	10	17 VCU	77
+2	17 Arizona	100	15	17 North Dakota	82
+1	17 Gonzaga	79	8	17 Northwestern	73
+5	17 Notre Dame	71	4	17 West Virginia	83
+11	17 Xavier	91	3	17 Florida State	66
+7	17 Saint Mary's	60	2	17 Arizona	69
+1	17 Gonzaga	61	4	17 West Virginia	58
+11	17 Xavier	73	2	17 Arizona	71
+1	17 Gonzaga	83	11	17 Xavier	59
+1	17 Kansas	100	16	17 UC Davis	62
+8	17 Miami	58	9	17 Michigan State	78
+5	17 Iowa State	84	12	17 Nevada	73
+4	17 Purdue	80	13	17 Vermont	70
+6	17 Creighton	72	11	17 Rhode Island	84
+3	17 Oregon	93	14	17 Iona	77
+7	17 Michigan	92	10	17 Oklahoma State	91
+2	17 Louisville	78	15	17 Jacksonville State	63
+1	17 Kansas	90	9	17 Michigan State	70
+5	17 Iowa State	76	4	17 Purdue	80
+11	17 Rhode Island	72	3	17 Oregon	75
+7	17 Michigan	73	2	17 Louisville	69
+1	17 Kansas	98	4	17 Purdue	66
+3	17 Oregon	69	7	17 Michigan	68
+1	17 Kansas	60	3	17 Oregon	74
+1	17 North Carolina	103	16	17 Texas Southern	64
+8	17 Arkansas	77	9	17 Seton Hall	71
+5	17 Minnesota	72	12	17 Middle Tennessee	81
+4	17 Butler	76	13	17 Winthrop	64
+6	17 Cincinnati	75	11	17 Kansas State	61
+3	17 UCLA	97	14	17 Kent State	80
+7	17 Dayton	58	10	17 Wichita State	64
+2	17 Kentucky	79	15	17 Northern Kentucky	70
+1	17 North Carolina	72	8	17 Arkansas	65
+2	17 Middle Tennessee	65	4	17 Butler	74
+6	17 Cincinnati	67	3	17 UCLA	79
+10	17 Wichita State	62	2	17 Kentucky	65
+1	17 North Carolina	92	4	17 Butler	80
+3	17 UCLA	75	2	17 Kentucky	86
+1	17 North Carolina	75	2	17 Kentucky	73
+7	17 South Carolina	73	1	17 Gonzaga	77
+3	17 Oregon	76	1	17 North Carolina	77
+1	17 Gonzaga	65	1	17 North Carolina	71
+11	16 Vanderbilt	50	11	16 Wichita State	70
+16	16 Florida Gulf Coast	96	16	16 Fairleigh Dickinson	65
+11	16 Michigan	67	11	16 Tulsa	62
+16	16 Holy Cross	59	16	16 Southern	55
+1	16 Kansas	105	16	16 Austin Peay	79
+8	16 Colorado	67	9	16 Connecticut	74
+5	16 Maryland	79	12	16 South Dakota State	74
+4	16 California	66	13	16 Hawaii	77
+6	16 Arizona	55	11	16 Wichita State	65
+3	16 Miami	79	14	16 Buffalo	72
+7	16 Iowa	72	10	16 Temple	70
+2	16 Villanova	86	15	16 UNC Asheville	56
+1	16 Kansas	73	9	16 Connecticut	61
+5	16 Maryland	73	13	16 Hawaii	60
+11	16 Wichita State	57	3	16 Miami	65
+7	16 Iowa	68	2	16 Villanova	87
+1	16 Kansas	79	5	16 Maryland	63
+3	16 Miami	69	2	16 Villanova	92
+1	16 Kansas	59	2	16 Villanova	64
+1	16 Oregon	91	16	16 Holy Cross	52
+1	16 Oregon	69	8	16 Saint Joseph's	64
+8	16 Saint Joseph's	78	9	16 Cincinnati	76
+1	16 Oregon	82	4	16 Duke	68
+5	16 Baylor	75	12	16 Yale	79
+12	16 Yale	64	4	16 Duke	71
+4	16 Duke	93	13	16 UNC Wilmington	85
+1	16 Oregon	68	2	16 Oklahoma	80
+6	16 Texas	72	11	16 Northern Iowa	75
+11	16 Northern Iowa	88	3	16 Texas A&M	92
+3	16 Texas A&M	92	14	16 Green Bay	65
+3	16 Texas A&M	63	2	16 Oklahoma	77
+7	16 Oregon State	67	10	16 VCU	75
+10	16 VCU	81	2	16 Oklahoma	85
+2	16 Oklahoma	82	15	16 Cal State Bakersfield	68
+1	16 North Carolina	83	16	16 Florida Gulf Coast	67
+1	16 North Carolina	85	9	16 Providence	66
+8	16 USC	69	9	16 Providence	70
+1	16 North Carolina	101	5	16 Indiana	86
+5	16 Indiana	99	12	16 Chattanooga	74
+5	16 Indiana	73	4	16 Kentucky	67
+4	16 Kentucky	85	13	16 Stony Brook	57
+1	16 North Carolina	88	6	16 Notre Dame	74
+6	16 Notre Dame	70	11	16 Michigan	63
+6	16 Notre Dame	76	14	16 Stephen F. Austin	75
+3	16 West Virginia	56	14	16 Stephen F. Austin	70
+6	16 Notre Dame	61	7	16 Wisconsin	56
+7	16 Wisconsin	47	10	16 Pittsburgh	43
+7	16 Wisconsin	66	2	16 Xavier	63
+2	16 Xavier	71	15	16 Weber State	53
+1	16 Virginia	81	16	16 Hampton	45
+1	16 Virginia	77	9	16 Butler	69
+8	16 Texas Tech	61	9	16 Butler	71
+1	16 Virginia	84	4	16 Iowa State	71
+5	16 Purdue	83	12	16 Little Rock	85
+12	16 Little Rock	61	4	16 Iowa State	78
+4	16 Iowa State	94	13	16 Iona	81
+1	16 Virginia	62	10	16 Syracuse	68
+6	16 Seton Hall	52	11	16 Gonzaga	68
+11	16 Gonzaga	82	3	16 Utah	59
+3	16 Utah	80	14	16 Fresno State	69
+11	16 Gonzaga	60	10	16 Syracuse	63
+7	16 Dayton	51	10	16 Syracuse	70
+10	16 Syracuse	75	15	16 Middle Tennessee	50
+2	16 Michigan State	81	15	16 Middle Tennessee	90
+2	16 Villanova	95	2	16 Oklahoma	51
+2	16 Villanova	77	1	16 North Carolina	74
+1	16 North Carolina	83	10	16 Syracuse	66
+11	15 BYU	90	11	15 Ole Miss	94
+16	15 Hampton	74	16	15 Manhattan	64
+11	15 Boise State	55	11	15 Dayton	56
+16	15 North Florida	77	16	15 Robert Morris	81
+1	15 Kentucky	79	16	15 Hampton	56
+1	15 Kentucky	64	8	15 Cincinnati	51
+8	15 Cincinnati	66	9	15 Purdue	65
+1	15 Kentucky	78	5	15 West Virginia	39
+5	15 West Virginia	68	12	15 Buffalo	62
+5	15 West Virginia	69	4	15 Maryland	59
+4	15 Maryland	65	13	15 Valparaiso	62
+1	15 Kentucky	68	3	15 Notre Dame	66
+6	15 Butler	56	11	15 Texas	48
+6	15 Butler	64	3	15 Notre Dame	67
+3	15 Notre Dame	69	14	15 Northeastern	65
+3	15 Notre Dame	81	7	15 Wichita State	70
+7	15 Wichita State	81	10	15 Indiana	76
+7	15 Wichita State	78	2	15 Kansas	65
+2	15 Kansas	75	15	15 New Mexico State	56
+1	15 Wisconsin	86	16	15 Coastal Carolina	72
+1	15 Wisconsin	72	8	15 Oregon	65
+8	15 Oregon	79	9	15 Oklahoma State	73
+1	15 Wisconsin	79	4	15 North Carolina	72
+5	15 Arkansas	56	12	15 Wofford	53
+5	15 Arkansas	78	4	15 North Carolina	87
+4	15 North Carolina	67	13	15 Harvard	65
+1	15 Wisconsin	85	2	15 Arizona	78
+6	15 Xavier	76	11	15 Ole Miss	57
+6	15 Xavier	75	14	15 Georgia State	67
+3	15 Baylor	56	14	15 Georgia State	57
+6	15 Xavier	60	2	15 Arizona	68
+7	15 VCU	72	10	15 Ohio State	75
+10	15 Ohio State	58	2	15 Arizona	73
+2	15 Arizona	93	15	15 Texas Southern	72
+1	15 Villanova	93	16	15 Lafayette	52
+1	15 Villanova	68	8	15 NC State	71
+8	15 NC State	66	9	15 LSU	65
+8	15 NC State	65	4	15 Louisville	75
+5	15 Northern Iowa	71	12	15 Wyoming	54
+5	15 Northern Iowa	53	4	15 Louisville	66
+4	15 Louisville	57	13	15 UC Irvine	55
+4	15 Louisville	70	7	15 Michigan State	76
+6	15 Providence	53	11	15 Dayton	66
+11	15 Dayton	66	3	15 Oklahoma	72
+3	15 Oklahoma	69	14	15 Albany	60
+3	15 Oklahoma	58	7	15 Michigan State	62
+7	15 Michigan State	70	10	15 Georgia	63
+7	15 Michigan State	60	2	15 Virginia	54
+2	15 Virginia	79	15	15 Belmont	67
+1	15 Duke	85	16	15 Robert Morris	56
+1	15 Duke	68	8	15 San Diego State	49
+8	15 San Diego State	76	9	15 St. John's	64
+1	15 Duke	63	5	15 Utah	57
+5	15 Utah	57	12	15 Stephen F. Austin	50
+5	15 Utah	75	4	15 Georgetown	64
+4	15 Georgetown	84	13	15 Eastern Washington	74
+1	15 Duke	66	2	15 Gonzaga	52
+6	15 SMU	59	11	15 UCLA	60
+11	15 UCLA	92	14	15 UAB	75
+3	15 Iowa State	59	14	15 UAB	60
+11	15 UCLA	62	2	15 Gonzaga	74
+7	15 Iowa	83	10	15 Davidson	52
+7	15 Iowa	68	2	15 Gonzaga	87
+2	15 Gonzaga	86	15	15 North Dakota State	76
+1	15 Kentucky	64	1	15 Wisconsin	71
+1	15 Wisconsin	63	1	15 Duke	68
+7	15 Michigan State	61	1	15 Duke	81
+12	14 NC State	74	12	14 Xavier	59
+16	14 Albany	71	16	14 Mount St. Mary's	64
+11	14 Iowa	65	11	14 Tennessee	78
+16	14 Cal Poly	81	16	14 Texas Southern	69
+1	14 Florida	67	16	14 Albany	55
+1	14 Florida	61	9	14 Pittsburgh	45
+8	14 Colorado	48	9	14 Pittsburgh	77
+1	14 Florida	79	4	14 UCLA	68
+5	14 VCU	75	12	14 Stephen F. Austin	77
+12	14 Stephen F. Austin	60	4	14 UCLA	77
+4	14 UCLA	76	13	14 Tulsa	59
+1	14 Florida	62	11	14 Dayton	52
+6	14 Ohio State	59	11	14 Dayton	60
+11	14 Dayton	55	3	14 Syracuse	53
+3	14 Syracuse	77	14	14 Western Michigan	53
+11	14 Dayton	82	10	14 Stanford	72
+7	14 New Mexico	53	10	14 Stanford	58
+10	14 Stanford	60	2	14 Kansas	57
+2	14 Kansas	80	15	14 Eastern Kentucky	69
+1	14 Virginia	70	16	14 Coastal Carolina	59
+1	14 Virginia	78	8	14 Memphis	60
+8	14 Memphis	71	9	14 George Washington	66
+1	14 Virginia	59	4	14 Michigan State	61
+5	14 Cincinnati	57	12	14 Harvard	61
+12	14 Harvard	73	4	14 Michigan State	80
+4	14 Michigan State	93	13	14 Delaware	78
+4	14 Michigan State	54	7	14 Connecticut	60
+6	14 North Carolina	79	11	14 Providence	77
+6	14 North Carolina	83	3	14 Iowa State	85
+3	14 Iowa State	93	14	14 North Carolina Central	75
+3	14 Iowa State	76	7	14 Connecticut	81
+7	14 Connecticut	89	10	14 St. Joseph's	81
+7	14 Connecticut	77	2	14 Villanova	65
+2	14 Villanova	73	15	14 Milwaukee	53
+1	14 Arizona	68	16	14 Weber State	59
+1	14 Arizona	84	8	14 Gonzaga	61
+8	14 Gonzaga	85	9	14 Oklahoma State	77
+1	14 Arizona	70	4	14 San Diego State	64
+5	14 Oklahoma	75	12	14 North Dakota State	80
+12	14 North Dakota State	44	4	14 San Diego State	63
+4	14 San Diego State	73	13	14 New Mexico State	69
+1	14 Arizona	63	2	14 Wisconsin	64
+6	14 Baylor	74	11	14 Nebraska	60
+6	14 Baylor	85	3	14 Creighton	55
+3	14 Creighton	76	14	14 Louisiana-Lafayette	66
+6	14 Baylor	52	2	14 Wisconsin	69
+7	14 Oregon	87	10	14 BYU	68
+7	14 Oregon	77	2	14 Wisconsin	85
+2	14 Wisconsin	75	15	14 American	35
+1	14 Wichita State	64	16	14 Cal Poly	37
+1	14 Wichita State	76	8	14 Kentucky	78
+8	14 Kentucky	56	9	14 Kansas State	49
+8	14 Kentucky	74	4	14 Louisville	69
+5	14 Saint Louis	83	12	14 NC State	80
+5	14 Saint Louis	51	4	14 Louisville	66
+4	14 Louisville	71	13	14 Manhattan	64
+8	14 Kentucky	75	2	14 Michigan	72
+6	14 Massachusetts	67	11	14 Tennessee	86
+11	14 Tennessee	83	14	14 Mercer	63
+3	14 Duke	71	14	14 Mercer	78
+11	14 Tennessee	71	2	14 Michigan	73
+7	14 Texas	87	10	14 Arizona State	85
+7	14 Texas	65	2	14 Michigan	79
+2	14 Michigan	57	15	14 Wofford	40
+1	14 Florida	53	7	14 Connecticut	63
+7	14 Connecticut	60	8	14 Kentucky	54
+2	14 Wisconsin	73	8	14 Kentucky	74
+11	13 Middle Tennessee	54	11	13 Saint Mary's	67
+16	13 Liberty	72	16	13 North Carolina A&T	73
+13	13 Boise State	71	13	13 La Salle	80
+16	13 James Madison	68	16	13 Long Island	55
+1	13 Louisville	79	16	13 North Carolina A&T	48
+1	13 Louisville	82	8	13 Colorado State	56
+8	13 Colorado State	84	9	13 Missouri	72
+1	13 Louisville	77	12	13 Oregon	69
+5	13 Oklahoma State	55	12	13 Oregon	68
+12	13 Oregon	74	4	13 Saint Louis	57
+4	13 Saint Louis	64	13	13 New Mexico State	44
+1	13 Louisville	85	2	13 Duke	63
+6	13 Memphis	54	11	13 Saint Mary's	52
+6	13 Memphis	48	3	13 Michigan State	70
+3	13 Michigan State	65	14	13 Valparaiso	54
+3	13 Michigan State	61	2	13 Duke	71
+7	13 Creighton	67	10	13 Cincinnati	63
+7	13 Creighton	50	2	13 Duke	66
+2	13 Duke	73	15	13 Albany	61
+1	13 Gonzaga	64	16	13 Southern	58
+1	13 Gonzaga	70	9	13 Wichita State	76
+8	13 Pittsburgh	55	9	13 Wichita State	73
+9	13 Wichita State	72	13	13 La Salle	58
+5	13 Wisconsin	46	12	13 Ole Miss	57
+12	13 Ole Miss	74	13	13 La Salle	76
+4	13 Kansas State	61	13	13 La Salle	63
+9	13 Wichita State	70	2	13 Ohio State	66
+6	13 Arizona	81	11	13 Belmont	64
+6	13 Arizona	74	14	13 Harvard	51
+3	13 New Mexico	62	14	13 Harvard	68
+6	13 Arizona	70	2	13 Ohio State	73
+7	13 Notre Dame	58	10	13 Iowa State	76
+10	13 Iowa State	75	2	13 Ohio State	78
+2	13 Ohio State	95	15	13 Iona	70
+1	13 Kansas	64	16	13 Western Kentucky	57
+1	13 Kansas	70	8	13 North Carolina	58
+8	13 North Carolina	78	9	13 Villanova	71
+1	13 Kansas	85	4	13 Michigan	87
+5	13 VCU	88	12	13 Akron	42
+5	13 VCU	53	4	13 Michigan	78
+4	13 Michigan	71	13	13 South Dakota State	56
+4	13 Michigan	79	3	13 Florida	59
+6	13 UCLA	63	11	13 Minnesota	83
+11	13 Minnesota	64	3	13 Florida	78
+3	13 Florida	79	14	13 Northwestern State	47
+3	13 Florida	62	15	13 Florida Gulf Coast	50
+7	13 San Diego State	70	10	13 Oklahoma	55
+7	13 San Diego State	71	15	13 Florida Gulf Coast	81
+2	13 Georgetown	68	15	13 Florida Gulf Coast	78
+1	13 Indiana	83	16	13 James Madison	62
+1	13 Indiana	58	9	13 Temple	52
+8	13 NC State	72	9	13 Temple	76
+1	13 Indiana	50	4	13 Syracuse	61
+5	13 UNLV	61	12	13 California	64
+12	13 California	60	4	13 Syracuse	66
+4	13 Syracuse	81	13	13 Montana	34
+4	13 Syracuse	55	3	13 Marquette	39
+6	13 Butler	68	11	13 Bucknell	56
+6	13 Butler	72	3	13 Marquette	74
+3	13 Marquette	59	14	13 Davidson	58
+3	13 Marquette	71	2	13 Miami	61
+7	13 Illinois	57	10	13 Colorado	49
+7	13 Illinois	59	2	13 Miami	63
+2	13 Miami	78	15	13 Pacific	49
+1	13 Louisville	72	9	13 Wichita State	68
+1	13 Louisville	82	4	13 Michigan	76
+4	13 Michigan	61	4	13 Syracuse	56
+16	12 Ole Miss Valley State	58	16	12 Western Kentucky	59
+16	12 Lamar	59	16	12 Vermont	71
+14	12 BYU	78	14	12 Iona	72
+12	12 California	54	12	12 South Florida	65
+1	12 Kentucky	81	16	12 Western Kentucky	66
+1	12 Kentucky	87	8	12 Iowa State	71
+8	12 Iowa State	77	9	12 Connecticut	64
+1	12 Kentucky	102	4	12 Indiana	90
+5	12 Wichita State	59	12	12 VCU	62
+12	12 VCU	61	4	12 Indiana	63
+4	12 Indiana	79	13	12 New Mexico State	66
+1	12 Kentucky	82	3	12 Baylor	70
+6	12 UNLV	64	11	12 Colorado	68
+11	12 Colorado	63	3	12 Baylor	80
+3	12 Baylor	68	14	12 South Dakota State	60
+3	12 Baylor	75	10	12 Xavier	70
+7	12 Notre Dame	63	10	12 Xavier	67
+10	12 Xavier	70	15	12 Lehigh	58
+2	12 Duke	70	15	12 Lehigh	75
+1	12 Michigan State	89	16	12 Long Island	67
+1	12 Michigan State	65	9	12 Saint Louis	61
+8	12 Memphis	54	9	12 Saint Louis	61
+1	12 Michigan State	44	4	12 Louisville	57
+5	12 New Mexico	75	12	12 Long Beach State	68
+5	12 New Mexico	56	4	12 Louisville	59
+4	12 Louisville	69	13	12 Davidson	62
+4	12 Louisville	72	7	12 Florida	68
+6	12 Murray State	58	11	12 Colorado State	41
+6	12 Murray State	53	3	12 Marquette	62
+3	12 Marquette	88	14	12 BYU	68
+3	12 Marquette	58	7	12 Florida	68
+7	12 Florida	71	10	12 Virginia	45
+7	12 Florida	84	15	12 Norfolk State	50
+2	12 Missouri	84	15	12 Norfolk State	86
+1	12 Syracuse	72	16	12 UNC Asheville	65
+1	12 Syracuse	75	8	12 Kansas State	59
+8	12 Kansas State	70	9	12 Southern Miss	64
+1	12 Syracuse	64	4	12 Wisconsin	63
+5	12 Vanderbilt	79	12	12 Harvard	70
+5	12 Vanderbilt	57	4	12 Wisconsin	60
+4	12 Wisconsin	73	13	12 Montana	49
+1	12 Syracuse	70	2	12 Ohio State	77
+6	12 Cincinnati	65	11	12 Texas	59
+6	12 Cincinnati	62	3	12 Florida State	56
+3	12 Florida State	66	14	12 St. Bonaventure	63
+6	12 Cincinnati	66	2	12 Ohio State	81
+7	12 Gonzaga	77	10	12 West Virginia	54
+7	12 Gonzaga	66	2	12 Ohio State	73
+2	12 Ohio State	78	15	12 Loyola	59
+1	12 North Carolina	77	16	12 Vermont	58
+1	12 North Carolina	87	8	12 Creighton	73
+8	12 Creighton	58	9	12 Alabama	57
+1	12 North Carolina	73	13	12 Ohio	65
+5	12 Temple	44	12	12 South Florida	58
+12	12 South Florida	56	13	12 Ohio	62
+4	12 Michigan	60	13	12 Ohio	65
+1	12 North Carolina	67	2	12 Kansas	80
+6	12 San Diego State	65	11	12 NC State	79
+11	12 NC State	66	3	12 Georgetown	63
+3	12 Georgetown	74	14	12 Belmont	59
+11	12 NC State	57	2	12 Kansas	60
+7	12 Saint Mary's	69	10	12 Purdue	72
+10	12 Purdue	60	2	12 Kansas	63
+2	12 Kansas	65	15	12 Detroit	50
+1	12 Kentucky	69	4	12 Louisville	61
+1	12 Kentucky	67	2	12 Kansas	59
+2	12 Ohio State	62	2	12 Kansas	64

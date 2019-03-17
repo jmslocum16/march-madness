@@ -1,0 +1,68 @@
+Villanova	Big East	31-3	1
+Kansas	Big 12	28-4	2
+North Carolina	ACC	27-7	3
+Gonzaga	WCC	32-1	4
+Kentucky	SEC	29-5	5
+Arizona	Pac-12	30-4	6
+Duke	ACC	27-8	7
+Louisville	ACC	24-8	8
+Oregon	Pac-12	29-5	9
+Florida State	ACC	25-8	10
+UCLA	Pac-12	29-4	11
+Baylor	Big 12	25-7	12
+Butler	Big East	23-8	13
+Florida	SEC	24-8	14
+West Virginia	Big 12	26-8	15
+Purdue	Big Ten	25-7	16
+Virginia	ACC	22-10	17
+Minnesota	Big Ten	24-9	18
+Notre Dame	ACC	25-9	19
+Iowa State	Big 12	23-10	20
+SMU	American	30-4	21
+Cincinnati	American	29-5	22
+Maryland	Big Ten	24-8	23
+Creighton	Big East	25-9	24
+Saint Mary's	WCC	28-4	25
+South Carolina	SEC	22-10	26
+Michigan	Big Ten	24-11	27
+Dayton	Atlantic 10	24-7	28
+Wisconsin	Big Ten	25-9	29
+Miami (FL)	ACC	21-11	30
+Arkansas	SEC	25-9	31
+Northwestern	Big Ten	23-11	32
+Vanderbilt	SEC	19-15	33
+Seton Hall	Big East	21-11	34
+Michigan State	Big Ten	19-14	35
+Virginia Tech	ACC	22-10	36
+Oklahoma State	Big 12	20-12	37
+Wichita State	Missouri Valley	30-4	38
+Marquette	Big East	19-12	39
+VCU	Atlantic 10	26-8	40
+Xavier	Big East	21-13	41
+Providence	Big East	20-12	42
+Wake Forest	ACC	19-13	43
+Rhode Island	Atlantic 10	24-9	44
+USC	Pac-12	24-9	45
+Kansas State	Big 12	20-13	46
+Nevada	Mountain West	28-6	47
+Middle Tennessee	Conference USA	30-4	48
+UNC Wilmington	CAA	29-5	49
+Princeton	Ivy League	23-6	50
+Bucknell	Patriot	26-8	51
+East Tennessee State	Southern	27-7	52
+Vermont	America East	29-5	53
+Winthrop	Big South	26-6	54
+New Mexico State	WAC	28-5	55
+Florida Gulf Coast	Atlantic Sun	26-7	56
+Kent State	MAC	22-13	57
+Iona	MAAC	22-12	58
+Northern Kentucky	Horizon	24-10	59
+Troy	Sun Belt	22-14	60
+Jacksonville State	Ohio Valley	20-14	61
+North Dakota	Big Sky	22-9	62
+Texas Southern	SWAC	23-11	63
+South Dakota State	Summit League	18-16	64
+UC Davis	Big West	22-12	65
+North Carolina Central	MEAC	25-8	66
+New Orleans	Southland	20-11	67
+Mount St. Mary's	NEC	19-15	68

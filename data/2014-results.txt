@@ -1,0 +1,67 @@
+12	NC State	74	12	Xavier	59
+16	Albany	71	16	Mount St. Mary's	64
+11	Iowa	65	11	Tennessee	78
+16	Cal Poly	81	16	Texas Southern	69
+1	Florida	67	16	Albany	55	
+1	Florida	61	9	Pittsburgh	45	
+8	Colorado	48	9	Pittsburgh	77	
+1	Florida	79	4	UCLA	68	
+5	VCU	75		12	Stephen F. Austin	77	
+12	Stephen F. Austin	60	4	UCLA	77	
+4	UCLA	76	13	Tulsa	59	
+1	Florida	62	11	Dayton	52	
+6	Ohio State	59			11	Dayton	60	
+11	Dayton	55	3	Syracuse	53	
+3	Syracuse	77	14	Western Michigan	53	
+11	Dayton	82	10	Stanford	72	
+7	New Mexico	53		10	Stanford	58	
+10	Stanford	60	2	Kansas	57	
+2	Kansas	80	15	Eastern Kentucky	69
+1	Virginia	70	16	Coastal Carolina	59	
+1	Virginia	78	8	Memphis	60	
+8	Memphis	71	9	George Washington	66	
+1	Virginia	59	4	Michigan State	61	
+5	Cincinnati	57		12	Harvard	61	
+12	Harvard	73	4	Michigan State	80	
+4	Michigan State	93	13	Delaware	78	
+4	Michigan State	54	7	Connecticut	60	
+6	North Carolina	79			11	Providence	77	
+6	North Carolina	83	3	Iowa State	85	
+3	Iowa State	93	14	North Carolina Central	75	
+3	Iowa State	76	7	Connecticut	81	
+7	Connecticut	89		10	St. Joseph's	81	
+7	Connecticut	77	2	Villanova	65	
+2	Villanova	73	15	Milwaukee	53
+1	Arizona	68	16	Weber State	59	
+1	Arizona	84	8	Gonzaga	61	
+8	Gonzaga	85	9	Oklahoma State	77	
+1	Arizona	70	4	San Diego State	64	
+5	Oklahoma	75		12	North Dakota State	80	
+12	North Dakota State	44	4	San Diego State	63	
+4	San Diego State	73	13	New Mexico State	69	
+1	Arizona	63	2	Wisconsin	64	
+6	Baylor	74			11	Nebraska	60	
+6	Baylor	85	3	Creighton	55	
+3	Creighton	76	14	Louisiana-Lafayette	66	
+6	Baylor	52	2	Wisconsin	69	
+7	Oregon	87		10	BYU	68	
+7	Oregon	77	2	Wisconsin	85	
+2	Wisconsin	75	15	American	35
+1	Wichita State	64	16	Cal Poly	37	
+1	Wichita State	76	8	Kentucky	78	
+8	Kentucky	56	9	Kansas State	49	
+8	Kentucky	74	4	Louisville	69	
+5	Saint Louis	83		12	NC State	80	
+5	Saint Louis	51	4	Louisville	66	
+4	Louisville	71	13	Manhattan	64	
+8	Kentucky	75	2	Michigan	72	
+6	Massachusetts	67			11	Tennessee	86	
+11	Tennessee	83	14	Mercer	63	
+3	Duke	71	14	Mercer	78	
+11	Tennessee	71	2	Michigan	73	
+7	Texas	87		10	Arizona State	85	
+7	Texas	65	2	Michigan	79	
+2	Michigan	57	15	Wofford	40
+1	Florida	53	7	Connecticut	63	
+7	Connecticut	60	8	Kentucky	54	
+2	Wisconsin	73	8	Kentucky	74

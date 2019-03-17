@@ -1,0 +1,4 @@
+Score Diff	Team 1	Team 2	a	b	c
+5	Texas	Kansas	1.000	1.000	0.000
+-20	Texas	OU	0.000	0.000	1.000
+7	A	B	0.500	0.500	0.500

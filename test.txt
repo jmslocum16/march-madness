@@ -1,0 +1,132 @@
+svm
+18 Virginia
+18 Kansas State
+18 Kentucky
+18 Buffalo
+18 Loyola-Chicago
+18 Tennessee
+18 Nevada
+18 Cincinnati
+18 Xavier
+18 Florida State
+18 Ohio State
+18 Gonzaga
+18 Houston
+18 Michigan
+18 Texas A&M
+18 North Carolina
+18 Villanova
+18 Alabama
+18 West Virginia
+18 Wichita State
+18 Florida
+18 Texas Tech
+18 Butler
+18 Purdue
+18 Kansas
+18 Seton Hall
+18 Clemson
+18 Auburn
+18 Syracuse
+18 Michigan State
+18 Rhode Island
+18 Duke
+logistic
+18 Virginia
+18 Kansas State
+18 Kentucky
+18 Arizona
+18 Loyola-Chicago
+18 Tennessee
+18 Nevada
+18 Cincinnati
+18 Xavier
+18 Florida State
+18 Ohio State
+18 Gonzaga
+18 Houston
+18 Michigan
+18 Texas A&M
+18 North Carolina
+18 Villanova
+18 Alabama
+18 West Virginia
+18 Wichita State
+18 Florida
+18 Texas Tech
+18 Butler
+18 Purdue
+18 Kansas
+18 Seton Hall
+18 Clemson
+18 Auburn
+18 Syracuse
+18 Michigan State
+18 Rhode Island
+18 Duke
+loaded_nn
+18 UMBC
+18 Kansas State
+18 Kentucky
+18 Buffalo
+18 Loyola-Chicago
+18 Tennessee
+18 Nevada
+18 Cincinnati
+18 Xavier
+18 Florida State
+18 Ohio State
+18 Gonzaga
+18 Houston
+18 Michigan
+18 Texas A&M
+18 North Carolina
+18 Villanova
+18 Alabama
+18 West Virginia
+18 Wichita State
+18 Florida
+18 Texas Tech
+18 Butler
+18 Purdue
+18 Kansas
+18 Seton Hall
+18 Clemson
+18 Auburn
+18 Syracuse
+18 Michigan State
+18 Rhode Island
+18 Duke
+Voting
+18 Virginia
+18 Kansas State
+18 Kentucky
+18 Buffalo
+18 Loyola-Chicago
+18 Tennessee
+18 Nevada
+18 Cincinnati
+18 Xavier
+18 Florida State
+18 Ohio State
+18 Gonzaga
+18 Houston
+18 Michigan
+18 Texas A&M
+18 North Carolina
+18 Villanova
+18 Alabama
+18 West Virginia
+18 Wichita State
+18 Florida
+18 Texas Tech
+18 Butler
+18 Purdue
+18 Kansas
+18 Seton Hall
+18 Clemson
+18 Auburn
+18 Syracuse
+18 Michigan State
+18 Rhode Island
+18 Duke

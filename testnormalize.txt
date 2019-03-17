@@ -1,0 +1,4 @@
+School	Conference	a	b	c
+Texas	Big 12	1.0	-1.0	3.0
+Kansas	Big 12	0.0	0.0	6.0
+OU	Big 12	0.5	1.0	-6.0

@@ -1,0 +1,68 @@
+Kansas	Big 12	30-4	1
+North Carolina	ACC	28-6	2
+Virginia	ACC	26-7	3
+Oregon	Pac-12	28-6	4
+Michigan State	Big Ten	29-5	5
+Oklahoma	Big 12	25-7	6
+Villanova	Big East	29-5	7
+Xavier	Big East	27-5	8
+West Virginia	Big 12	26-8	9
+Miami	ACC	25-7	10
+Utah	Pac-12	26-8	11
+Texas A&M	SEC	26-8	12
+Duke	ACC	23-10	13
+California	Pac-12	23-10	14
+Kentucky	SEC	26-8	15
+Iowa State	Big 12	21-11	16
+Indiana	Big Ten	25-7	17
+Purdue	Big Ten	26-8	18
+Maryland	Big Ten	25-8	19
+Baylor	Big 12	22-11	20
+Texas	Big 12	20-12	21
+Notre Dame	ACC	21-11	22
+Arizona	Pac-12	25-8	23
+Seton Hall	Big East	25-8	24
+Wisconsin	Big Ten	20-12	25
+Dayton	Atlantic 10	25-7	26
+Iowa	Big Ten	21-10	27
+Oregon State	Pac-12	19-12	28
+Texas Tech	Big 12	19-12	29
+Colorado	Pac-12	22-11	30
+USC	Pac-12	21-12	31
+Saint Joseph's	Atlantic 10	27-7	32
+Providence	Big East	23-10	33
+Butler	Big East	21-10	34
+Cincinnati	American	22-10	35
+Connecticut	American	24-10	36
+Pittsburgh	ACC	21-11	37
+Temple	American	21-11	38
+Syracuse	ACC	19-13	39
+VCU	Atlantic 10	24-10	40
+Vanderbilt	SEC	19-13	41
+Michigan	Big Ten	22-12	42
+Wichita State	Missouri Valley	24-8	43
+Gonzaga	WCC	26-7	44
+Tulsa	American	20-11	45
+Northern Iowa	Missouri Valley	22-12	46
+Chattanooga	Southern	29-5	47
+Little Rock	Sun Belt	29-4	48
+Yale	Ivy League	22-6	49
+South Dakota State	Summit League	26-7	50
+UNC Wilmington	CAA	25-7	51
+Hawaii	Big West	27-5	52
+Stony Brook	America East	26-6	53
+Iona	MAAC	22-10	54
+Green Bay	Horizon	23-12	55
+Buffalo	MAC	20-14	56
+Fresno State	Mountain West	25-9	57
+Stephen F. Austin	Southland	27-5	58
+Middle Tennessee	C-USA	24-9	59
+Cal State Bakersfield	WAC	24-8	60
+UNC Asheville	Big South	22-11	61
+Weber State	Big Sky	26-8	62
+Austin Peay	Ohio Valley	18-17	63
+Hampton	MEAC	21-10	64
+Florida Gulf Coast	Atlantic Sun	20-13	65
+Fairleigh Dickinson	NEC	18-14	66
+Southern	SWAC	22-12	67
+Holy Cross	Patriot	14-19	68

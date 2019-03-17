@@ -1,0 +1,67 @@
+11	Vanderbilt	50	11	Wichita State	70
+16	Florida Gulf Coast	96	16	Fairleigh Dickinson	65
+11	Michigan	67	11	Tulsa	62
+16	Holy Cross	59	16	Southern	55
+1	Kansas	105	16	Austin Peay	79
+8	Colorado	67	9	Connecticut	74
+5	Maryland	79		12	South Dakota State	74
+4	California	66	13	Hawaii	77
+6	Arizona	55			11	Wichita State	65
+3	Miami	79	14	Buffalo	72
+7	Iowa	72		10	Temple	70
+2	Villanova	86	15	UNC Asheville	56
+1	Kansas	73	9	Connecticut	61
+5	Maryland	73	13	Hawaii	60
+11	Wichita State	57	3	Miami	65
+7	Iowa	68	2	Villanova	87
+1	Kansas	79	5	Maryland	63
+3	Miami	69	2	Villanova	92
+1	Kansas	59	2	Villanova	64
+1	Oregon	91	16	Holy Cross	52	
+1	Oregon	69	8	Saint Joseph's	64	
+8	Saint Joseph's	78	9	Cincinnati	76	
+1	Oregon	82	4	Duke	68	
+5	Baylor	75		12	Yale	79	
+12	Yale	64	4	Duke	71	
+4	Duke	93	13	UNC Wilmington	85	
+1	Oregon	68	2	Oklahoma	80	
+6	Texas	72			11	Northern Iowa	75	
+11	Northern Iowa	88	3	Texas A&M	92	
+3	Texas A&M	92	14	Green Bay	65	
+3	Texas A&M	63	2	Oklahoma	77	
+7	Oregon State	67		10	VCU	75	
+10	VCU	81	2	Oklahoma	85	
+2	Oklahoma	82	15	Cal State Bakersfield	68
+1	North Carolina	83	16	Florida Gulf Coast	67	
+1	North Carolina	85	9	Providence	66	
+8	USC	69	9	Providence	70	
+1	North Carolina	101	5	Indiana	86	
+5	Indiana	99		12	Chattanooga	74	
+5	Indiana	73	4	Kentucky	67	
+4	Kentucky	85	13	Stony Brook	57	
+1	North Carolina	88	6	Notre Dame	74	
+6	Notre Dame	70			11	Michigan	63	
+6	Notre Dame	76	14	Stephen F. Austin	75	
+3	West Virginia	56	14	Stephen F. Austin	70	
+6	Notre Dame	61	7	Wisconsin	56	
+7	Wisconsin	47		10	Pittsburgh	43	
+7	Wisconsin	66	2	Xavier	63	
+2	Xavier	71	15	Weber State	53
+1	Virginia	81	16	Hampton	45	
+1	Virginia	77	9	Butler	69	
+8	Texas Tech	61	9	Butler	71	
+1	Virginia	84	4	Iowa State	71	
+5	Purdue	83		12	Little Rock	85	
+12	Little Rock	61	4	Iowa State	78	
+4	Iowa State	94	13	Iona	81	
+1	Virginia	62	10	Syracuse	68	
+6	Seton Hall	52			11	Gonzaga	68	
+11	Gonzaga	82	3	Utah	59	
+3	Utah	80	14	Fresno State	69	
+11	Gonzaga	60	10	Syracuse	63	
+7	Dayton	51		10	Syracuse	70	
+10	Syracuse	75	15	Middle Tennessee	50	
+2	Michigan State	81	15	Middle Tennessee	90
+2	Villanova	95	2	Oklahoma	51	
+2	Villanova	77	1	North Carolina	74	
+1	North Carolina	83	10	Syracuse	66
